@@ -10,6 +10,7 @@ git remote add origin https://github.com/LaxmiprasannaVeldi/Automation-Testing.g
 git branch -M main
 git push -u origin main
 
+echo "Push code to Repo"
 git remote add origin https://github.com/LaxmiprasannaVeldi/Automation-Testing.git
 git branch -M main
 git push -u origin main
